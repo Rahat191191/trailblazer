@@ -1,0 +1,107 @@
+element.style {
+}
+<style>
+:root {
+    --lwc-bannerGroupDefaultImage: url(/_slds/images/themes/lightning_blue/lightning_blue_group.png);
+    --lwc-brandLogoImage: url(/_slds/images/themes/lightning_blue/lightning_blue_logo_2x.png);
+    --lwc-bannerUserDefaultImage: url(/_slds/images/themes/lightning_blue/lightning_blue_profile.png);
+    --lwc-groupDefaultAvatar: url(/_slds/images/themes/lightning_blue/lightning_blue_group_icon_200.png);
+    --lwc-groupDefaultAvatarSmall: url(/_slds/images/themes/lightning_blue/lightning_blue_group_icon_96.png);
+    --lwc-brandBandDefaultImage: url(/_slds/images/themes/lightning_blue/lightning_blue_background.png);
+    --lwc-userDefaultAvatar: url(/_slds/images/themes/lightning_blue/lightning_blue_profile_avatar_200.png);
+    --lwc-userDefaultAvatarSmall: url(/_slds/images/themes/lightning_blue/lightning_blue_profile_avatar_96.png);
+    --lwc-groupDefaultAvatarMedium: url(/_slds/images/themes/lightning_blue/lightning_blue_group_icon_160.png);
+    --lwc-userDefaultAvatarMedium: url(/_slds/images/themes/lightning_blue/lightning_blue_profile_avatar_160.png);
+}
+:root {
+    --lwc-colorBackgroundScrollbarTrack: rgb(201, 199, 197);
+    --lwc-brandPrimaryActive: rgb(0, 122, 221);
+    --lwc-popoverWalkthroughAltImage: url(/_slds/images/popovers/popover-action.png?cache=f878113e);
+    --lwc-salesforceSansLightWoff: url(/_slds/fonts/v2.3.0/SalesforceSans-Light.woff);
+    --lwc-colorBorderSuccessDark: rgb(4, 132, 75);
+    --lwc-popoverWalkthroughHeaderImage: url(/_slds/images/popovers/popover-header.png?cache=73de13a8);
+    --lwc-zIndexDialog: 6000;
+    --lwc-mqHighRes: only screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-device-pixel-ratio: 2),screen and (min-resolution: 192dpi),screen and (min-resolution: 2dppx);
+    --lwc-colorPickerSelectorWidth: 14rem;
+    --lwc-brandBandColorBackgroundPrimaryTransparent: rgba(253, 253, 253, 0);
+    --lwc-colorBackgroundContextBarInverseItemActive: rgba(255, 255, 255, 0.4);
+    --lwc-nubbinSizeDefault: 1rem;
+    --lwc-colorTextButtonDefaultHint: rgb(176, 173, 171);
+    --lwc-salesforceSansItalicWoff2: url(/_slds/fonts/v2.3.0/SalesforceSans-Italic.woff2);
+    --lwc-colorBackgroundContextBarInverseItemHover: rgba(255, 255, 255, 0.2);
+    --lwc-dropZoneSlotHeight: 0.25rem;
+    --lwc-colorTextTabLabelSelected: rgb(0, 112, 210);
+    --lwc-heightContextBar: 2.5rem;
+    --lwc-colorBackgroundOrgSwitcherArrow: rgb(6, 28, 63);
+    --lwc-colorStrokeBrandActive: rgb(22, 50, 92);
+    --lwc-cardBodyPadding: 0 1rem;
+    --lwc-varSpacingHorizontalSmall: 0.75rem;
+    --lwc-brandHeaderContrastInverse: rgb(255, 255, 255);
+    --lwc-colorBackgroundPathActiveHover: rgb(0, 57, 107);
+    --lwc-notificationColorBackgroundInverse: rgb(112, 110, 107);
+    --lwc-brandPrimaryTransparent: rgba(21, 137, 238, 0.1);
+    --lwc-colorBackgroundButtonIconDisabled: rgb(255, 255, 255);
+    --lwc-brandPrimaryTransparent40: rgba(21, 137, 238, 0.4);
+    --lwc-colorBorderButtonDefault: rgb(221, 219, 218);
+    --lwc-colorBorderContextBarThemeDefaultAlt: rgb(243, 242, 242);
+    --lwc-fillBrand: rgb(0, 112, 210);
+    --lwc-popoverColorText: rgb(217, 219, 221);
+    --lwc-colorBackgroundInputCheckbox: rgb(255, 255, 255);
+    --lwc-colorBorder: rgb(221, 219, 218);
+    --lwc-squareIconSmall: 1rem;
+    --lwc-varSpacingHorizontalMedium: 1rem;
+    --lwc-illustrationColorPrimary: rgb(140, 211, 248);
+    --lwc-colorTextButtonDefaultActive: rgb(0, 112, 210);
+    --lwc-colorPickerSliderHeight: 1.5rem;
+    --lwc-varSpacingVerticalXSmall: 0.5rem;
+    --lwc-colorTextPlaceholder: rgb(112, 110, 107);
+    --lwc-einsteinHeaderBackgroundColor: rgb(149, 203, 252);
+    --lwc-colorTextIconInverse: rgb(255, 255, 255);
+    --lwc-brandHeaderContrast: rgb(94, 94, 94);
+    --lwc-heightFooter: 3.75rem;
+    --lwc-splitViewColorBorder: rgb(221, 219, 218);
+    --lwc-colorBorderRowSelectedHover: rgb(21, 137, 238);
+    --lwc-fontSizeTextXxSmall: 0.625rem;
+    --lwc-inputStaticColor: rgb(8, 7, 7);
+    --lwc-lineHeightHeading: 1.25;
+Show All Properties (708 more)
+}
+html {
+    -ms-touch-action: none;
+}
+html {
+    font-family: var(--lwc-fontFamily,'Salesforce Sans', Arial, sans-serif);
+    font-size: 100%;
+    line-height: var(--lwc-varLineHeightText,1.375);
+    background: var(--lwc-brandBackgroundPrimary,rgb(176, 196, 223));
+    color: var(--lwc-colorTextDefault,rgb(8, 7, 7));
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    direction: ltr;
+    unicode-bidi: isolate;
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+::selection {
+    background: var(--lwc-colorBackgroundSelection,rgb(216, 237, 255));
+    text-shadow: none;
+    color: var(--lwc-colorTextDefault,rgb(8, 7, 7));
+}
